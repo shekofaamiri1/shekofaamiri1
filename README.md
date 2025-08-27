@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shekofa Amiri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00a8ff&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Passionate+About+Coding;Exploring+Tech;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1b379f&center=true&vCenter=true&width=500&fontWeight=bold&lines=Computer+Engineering+Student;Passionate+About+Coding;Exploring+Tech;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
